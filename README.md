@@ -71,4 +71,4 @@ To run this project:
 
 ## Acknowledgments
 
-This project was developed as part of a Data Science course final assessment. The dataset used for this analysis includes anonymized salary and demographic data from .
+This project was developed as part of a Data Science course final assessment. The dataset used for this analysis includes anonymized salary and demographic data from an open-source Kaggle dataset that is no longer accessible. I do not claim ownership of the dataset being used in this project. 
